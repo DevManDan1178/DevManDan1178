@@ -34,6 +34,7 @@
     <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
     <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
     <img alt="Lua" src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white" />
+    <img alt="C++" src="https://img.shields.io/badge/C++-00599C?&logo=C%2B%2B&logoColor=white" />
   </p>
 <h4>Tools</h4>
 <p>
