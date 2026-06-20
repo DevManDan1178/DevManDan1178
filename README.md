@@ -1,16 +1,12 @@
 ## Hi there 👋
-<p>I'm Daniel, an aspiring game and software developer.</p>
+<p>I'm Daniel, an aspiring game developer.</p>
 <h3>Find me</h3>
 <p>
-  <a href="https://pictureofahotdog.com/" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-  </a>
-  <a href="https://devman-dan.itch.io/" target="_blank">
-      <img alt="Itch.io" src="https://img.shields.io/badge/itch.io-%23FF0B34.svg?&style=for-the-badge&logo==Itch.io&logoColor=white"/>
-  </a>
- <a href="https://ca.linkedin.com/in/danoliu" target ="_blank">
-     <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin-white&logoColor=fff"/>
- </a>
+  <a href="https://pictureofahotdog.com/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://devman-dan.itch.io/" target="_blank"><img alt="Itch.io" src="https://img.shields.io/badge/itch.io-%23FF0B34.svg?&style=for-the-badge&logo==Itch.io&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://ca.linkedin.com/in/danoliu" target ="_blank"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin-white&logoColor=fff"/></a>
 </p>
 <h3>Stuff I use</h3>
 
