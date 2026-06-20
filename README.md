@@ -20,6 +20,7 @@
   <img alt="Godot" src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white" />
   <img alt="Roblox Studio" src="https://img.shields.io/badge/Roblox%20Studio-white?style=flat&logo=robloxstudio "/>
 </p>
+
 <h4>Web Development</h4>
 <p> 
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white" />  
@@ -29,17 +30,18 @@
 </p>
 <h4>Programming Languages</h4>
   <p>
-    <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" />
-    <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
-    <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
     <img alt="Lua" src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white" />
+    <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" />
     <img alt="C++" src="https://img.shields.io/badge/C++-00599C?&logo=C%2B%2B&logoColor=white" />
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
+    <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+    <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />    
   </p>
 <h4>Tools</h4>
 <p>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" />
   <img alt="VS Code" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white" />
+  <img alt="CMake" src="https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=fff" />  
 </p>
 <br><br><br><br><br><br>
 <h2>More about me</h2>
