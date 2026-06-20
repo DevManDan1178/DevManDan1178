@@ -3,7 +3,7 @@
 
 <h3>Find me</h3>
 <p>
-  <a href="https://devmandan.vercel.app"><img src="assets/PortfolioPixelArt.png" width="96" height="24" /></a>
+  <a href="https://devmandan.vercel.app"><img src="assets/PortfolioPixelArt.png" width="96" height="24" alt="Portfolio"/></a>
   &nbsp;
   <a href="https://devman-dan.itch.io/" target="_blank"><img alt="Itch.io" src="https://img.shields.io/badge/itch.io-%23FF0B34.svg?&style=for-the-badge&logo=Itch.io&logoColor=white"/></a>
   &nbsp;
@@ -41,3 +41,8 @@
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" />
   <img alt="VS Code" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white" />
 </p>
+<br><br><br><br><br><br>
+<h2>More about me</h2>
+<img src="https://i.redd.it/pbc0dz0a7m1f1.jpeg" alt="True statement" width="512" height="512"/>
+
+
