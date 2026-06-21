@@ -53,7 +53,7 @@
   <img alt="html5" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white" />
 </p>
 
-<br><br><br><br><br><br>
+<br>
 <h2>More about me</h2>
 <img src="https://i.redd.it/pbc0dz0a7m1f1.jpeg" alt="True statement" width="512" height="512"/>
 
