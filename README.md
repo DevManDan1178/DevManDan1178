@@ -1,5 +1,5 @@
 ## Hi there 👋
-<p>I'm $\color{#37cdff}{\mathbf{Daniel}}$, an aspiring game developer.<p>
+<p>I'm $\color{#0fc3ff}{\mathbf{Daniel}}$, an aspiring game developer.<p>
 
 
 <a href="https://devmandan.vercel.app"><img src="assets/PortfolioPixelArt.png" width="96" height="24" alt="Portfolio"/><img src="assets/LinkPixelArt.png" width="24" height="24" alt="Portfolio"/></a>
