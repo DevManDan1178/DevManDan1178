@@ -1,10 +1,12 @@
 ## Hi there 👋
-<p>I'm Daniel, an aspiring game developer.</p>
+<p>I'm $\color{#37cdff}{\mathbf{Daniel}}$, an aspiring game developer.<p>
+
+
+<a href="https://devmandan.vercel.app"><img src="assets/PortfolioPixelArt.png" width="96" height="24" alt="Portfolio"/><img src="assets/LinkPixelArt.png" width="24" height="24" alt="Portfolio"/></a>
+
 
 <h3>Find me</h3>
 <p>
-  <a href="https://devmandan.vercel.app"><img src="assets/PortfolioPixelArt.png" width="96" height="24" alt="Portfolio"/></a>
-  &nbsp;
   <a href="https://devman-dan.itch.io/" target="_blank"><img alt="Itch.io" src="https://img.shields.io/badge/itch.io-%23FF0B34.svg?&style=for-the-badge&logo=Itch.io&logoColor=white"/></a>
   &nbsp;
   <a href="https://ca.linkedin.com/in/danoliu" target ="_blank"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin-white&logoColor=fff"/></a>
