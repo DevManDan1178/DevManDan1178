@@ -54,7 +54,15 @@
 </p>
 
 <br>
-<h2>More about me</h2>
-<img src="https://i.redd.it/pbc0dz0a7m1f1.jpeg" alt="True statement" width="512" height="512"/>
+
+<h3>↓ Me & The Boys ↓</h3>
+<a href="https://www.gitanimals.org/">
+  <img
+    src="https://render.gitanimals.org/guilds/856767713752759727/draw"
+    width="600"
+    height="300"
+    alt="gitanimals"
+  />
+</a>
 
 
